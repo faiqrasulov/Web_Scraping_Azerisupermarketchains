@@ -1,0 +1,2 @@
+# Rendered notebook exports: keep them out of the language statistics.
+*.html linguist-generated=true
